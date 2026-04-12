@@ -1,0 +1,5 @@
+akun user :1023025720
+akun admin name:admin1
+	   password:admin1
+link domain https://pengadus.wuaze.com/
+link github	:https://github.com/christianronaldopanjaitan/ukk
